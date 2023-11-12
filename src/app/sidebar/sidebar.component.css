@@ -1,0 +1,17 @@
+
+
+.sidebar-items-list {
+    list-style-type: none;
+}
+
+.sidenavbars {
+    margin-top: 5px;
+    padding: 20px;
+    padding-left: 0px;
+    font-weight: 400;
+}
+
+.sidenavbars:hover {
+    cursor: pointer;
+    font-weight: 500;
+}
