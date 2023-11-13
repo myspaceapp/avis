@@ -1,0 +1,15 @@
+
+
+.sidebar-items-list {
+    list-style-type: none;
+}
+
+.sidenavbars {
+    padding: 0px 10px 10px 0px;
+    font-weight: 400;
+}
+
+.sidenavbars:hover {
+    cursor: pointer;
+    font-weight: 500;
+}
